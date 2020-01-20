@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "question": "What is the full form of IP?",
+        "option": [
+            {
+                "optionid": 1,
+                "name": "Internet program"
+            },
+            {
+                "optionid": 2,
+                "name": "Internet protocol"
+            },
+            {
+                "optionid": 3,
+                "name": "Interface program"
+            },
+            {
+                "optionid": 4,
+                "name": "Interface protocol"
+            }
+        ],
+        "answer": 2,
+        "selected": 0
+    },
+    {
+        "id": 2,
+        "question": "Select the smallest memory size",
+        "option": [
+            {
+                "optionid": 1,
+                "name": "kilobyte"
+            },
+            {
+                "optionid": 2,
+                "name": "megabyte"
+            },
+            {
+                "optionid": 3,
+                "name": "gigabyte"
+            },
+            {
+                "optionid": 4,
+                "name": "terabyte"
+            }
+        ],
+        "answer": 1,
+        "selected": 0
+    },
+    {
+        "id": 3,
+        "question": "What is the full form of IP?",
+        "option": [
+            {
+                "optionid": 1,
+                "name": "Internet program"
+            },
+            {
+                "optionid": 2,
+                "name": "Internet protocol"
+            },
+            {
+                "optionid": 3,
+                "name": "Interface program"
+            },
+            {
+                "optionid": 4,
+                "name": "Interface protocol"
+            }
+        ],
+        "answer": 2,
+        "selected": 0
+    },
+    {
+        "id": 4,
+        "question": "Select the smallest memory size",
+        "option": [
+            {
+                "optionid": 1,
+                "name": "kilobyte"
+            },
+            {
+                "optionid": 2,
+                "name": "megabyte"
+            },
+            {
+                "optionid": 3,
+                "name": "gigabyte"
+            },
+            {
+                "optionid": 4,
+                "name": "terabyte"
+            }
+        ],
+        "answer": 1,
+        "selected": 0
+    }
+]

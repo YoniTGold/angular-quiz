@@ -1,0 +1,27 @@
+:host {
+    display: flex;
+    justify-content: center;
+}
+.container{
+    width: 30%;
+    background-color: gray;
+    padding: 30px;
+    
+}
+.buttons-area {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+button {
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+button:hover {
+    background-color: white;
+    color: black;
+}
